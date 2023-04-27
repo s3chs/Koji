@@ -131,7 +131,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 50px 20px;
+    padding: 20px 20px;
     height: 5vh;
   }
   .website-container .navbar .bar-name-container span {
